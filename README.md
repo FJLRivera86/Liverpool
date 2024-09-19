@@ -1,1 +1,1 @@
-This project run in Java 19 version.
+This project run in Java version 19.
