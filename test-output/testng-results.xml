@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-19T02:18:32 CST" name="ScenariosSuite" finished-at="2024-09-19T02:20:46 CST" duration-ms="134218">
+    <groups>
+    </groups>
+    <test started-at="2024-09-19T02:18:32 CST" name="Test" finished-at="2024-09-19T02:20:46 CST" duration-ms="134218">
+      <class name="com.apex.liverpool.TC_ScenarioTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.apex.liverpool.TC_ScenarioTest@7d4f9aae]" started-at="2024-09-19T02:20:28 CST" name="setup" finished-at="2024-09-19T02:20:39 CST" duration-ms="10782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="scenario_test()[pri:1, instance:com.apex.liverpool.TC_ScenarioTest@7d4f9aae]" started-at="2024-09-19T02:20:39 CST" name="scenario_test" finished-at="2024-09-19T02:20:46 CST" duration-ms="6752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario_test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.apex.liverpool.TC_ScenarioTest@7d4f9aae]" started-at="2024-09-19T02:20:46 CST" name="teardown" finished-at="2024-09-19T02:20:46 CST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.apex.liverpool.TC_ScenarioTest -->
+      <class name="com.apex.liverpool.TC_Scenario001">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.apex.liverpool.TC_Scenario001@2d710f1a]" started-at="2024-09-19T02:18:32 CST" name="setup" finished-at="2024-09-19T02:18:46 CST" duration-ms="14129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="save_cookies()[pri:0, instance:com.apex.liverpool.TC_Scenario001@2d710f1a]" started-at="2024-09-19T02:18:46 CST" name="save_cookies" finished-at="2024-09-19T02:19:32 CST" duration-ms="45765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- save_cookies -->
+        <test-method signature="scenario001()[pri:1, instance:com.apex.liverpool.TC_Scenario001@2d710f1a]" started-at="2024-09-19T02:19:32 CST" name="scenario001" finished-at="2024-09-19T02:19:50 CST" duration-ms="18724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario001 -->
+        <test-method signature="scenario002()[pri:2, instance:com.apex.liverpool.TC_Scenario001@2d710f1a]" started-at="2024-09-19T02:19:50 CST" name="scenario002" finished-at="2024-09-19T02:20:13 CST" duration-ms="22386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario002 -->
+        <test-method signature="scenario003()[pri:3, instance:com.apex.liverpool.TC_Scenario001@2d710f1a]" started-at="2024-09-19T02:20:13 CST" name="scenario003" finished-at="2024-09-19T02:20:28 CST" duration-ms="14938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario003 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.apex.liverpool.TC_Scenario001@2d710f1a]" started-at="2024-09-19T02:20:28 CST" name="teardown" finished-at="2024-09-19T02:20:28 CST" duration-ms="407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.apex.liverpool.TC_Scenario001 -->
+    </test> <!-- Test -->
+  </suite> <!-- ScenariosSuite -->
+</testng-results>
